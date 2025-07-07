@@ -1,0 +1,34 @@
+[
+  {
+    "description": "The entire school , engaging way",
+    "title": "School Curriculum",
+    "src": "https://img.freepik.com/free-vector/hand-drawn-report-card-template_23-2149539317.jpg",
+    "ctaText": "Start Learning",
+    "ctaLink": "#",
+    "contentSummary": "Covers Math, Science, English, and Social Studies with interactive lessons, quizzes, and tracking tools."
+  },
+  {
+    "description": "Start coding with fun projects and games",
+    "title": "Computers and Coding",
+    "src": "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Start Coding",
+    "ctaLink": "#",
+    "contentSummary": "Learn Scratch, Python basics, game development, and logical thinking through fun, interactive lessons."
+  },
+  {
+    "description": "Creative arts and crafts for young minds",
+    "title": "Art & Creativity",
+    "src": "https://images.unsplash.com/photo-1579762715118-a6f1d4b934f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Get Creative",
+    "ctaLink": "#",
+    "contentSummary": "Offers tutorials in drawing, painting, DIY crafts, and digital art to encourage creativity and fine motor skills."
+  },
+  {
+    "description": "Fun experiments and science discoveries",
+    "title": "Science Explorers",
+    "src": "https://images.unsplash.com/photo-1575505586569-646b2ca898fc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "ctaText": "Explore Science",
+    "ctaLink": "#",
+    "contentSummary": "Explore science through fun experiments, virtual labs, and STEM projects to spark curiosity."
+  }
+]
